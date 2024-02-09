@@ -20,7 +20,7 @@ podras encontrar contenido  relacionado a la instalación y configuración para 
 
 ## Extensiones para el Navegador
 
-[Vue Devtools - (beta)](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=es)
+[Vue Devtools - (beta)](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
 
 ## Editor de Código
 
