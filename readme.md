@@ -52,4 +52,13 @@ podras encontrar contenido  relacionado a la instalación y configuración para 
 
 ## Actualizar NPM e Instalar Yarn
 
-En un cmd o terminal ejecutar `npm install -g npm yarn` y solo los usuarios de linux y mac deben ejecutar este comando con permisos de `Sudo`
+En un cmd o terminal ejecutar 
+
+~~~
+npm install -g npm yarn 
+~~~
+y solo los usuarios de linux y mac deben ejecutar este comando con permisos de 
+
+~~~
+Sudo
+~~~
