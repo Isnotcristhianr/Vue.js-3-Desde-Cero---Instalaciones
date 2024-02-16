@@ -63,5 +63,5 @@ y solo los usuarios de linux y mac deben ejecutar este comando con permisos de
 Sudo
 ~~~
 
-##Documetacion VUEJS
+## Documetacion VUEJS
 --- [VUEJS](https://vuejs.org/)
